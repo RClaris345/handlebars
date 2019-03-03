@@ -36,12 +36,5 @@ $(document).ready(function() {
       location.reload();
     });
 
-    //     console.log(newBurger);
-    //     $.ajax({
-    //       method: "PUT",
-    //       url: "/api/burgers/" + newBurger,
-    //     }).then(function(data){
-    //   location.reload();
-    // })
   });
 });
